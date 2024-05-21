@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAppConsoleDemo", "ChatAppConsoleDemo.csproj", "{D183076E-BB3C-4446-B764-F00AC341198E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAppMauiDemo", "..\ChatAppMauiDemo\ChatAppMauiDemo.csproj", "{868CB871-0ABA-46C3-937F-D0D5C2ADF7CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D183076E-BB3C-4446-B764-F00AC341198E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D183076E-BB3C-4446-B764-F00AC341198E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D183076E-BB3C-4446-B764-F00AC341198E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D183076E-BB3C-4446-B764-F00AC341198E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868CB871-0ABA-46C3-937F-D0D5C2ADF7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868CB871-0ABA-46C3-937F-D0D5C2ADF7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868CB871-0ABA-46C3-937F-D0D5C2ADF7CE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{868CB871-0ABA-46C3-937F-D0D5C2ADF7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868CB871-0ABA-46C3-937F-D0D5C2ADF7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868CB871-0ABA-46C3-937F-D0D5C2ADF7CE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06602B77-DDC0-49EA-8BB5-9EC48C4B11A1}
+	EndGlobalSection
+EndGlobal

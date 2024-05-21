@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:ChatAppMauiDemo.PageModels"
+             x:DataType="vm:MainPageViewModel" Shell.NavBarIsVisible="False"
+             x:Class="ChatAppMauiDemo.MainPage">
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel/>
+    </ContentPage.BindingContext>
+    <Grid RowDefinitions="*,Auto">
+        <ScrollView Grid.Row="0" BackgroundColor="#bacee0" Padding="10">
+            <CollectionView ItemsSource="{Binding ChatList}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Label Text="{Binding}" FontSize="Medium" Padding="10"/>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </ScrollView>
+        <Grid Grid.Row="1" BackgroundColor="#ffffff" MinimumHeightRequest="150" Padding="10,5" RowDefinitions="*,Auto" RowSpacing="5">
+            <Entry Grid.Row="0" BackgroundColor="Transparent" Text="{Binding MessageContent,Mode=TwoWay}"/>
+            <Button Text="전송" HorizontalOptions="End" Grid.Row="1" Padding="10,5" BackgroundColor="#fada0a" TextColor="#4d3636"
+                    Command="{Binding SendMessageCommand}"/>
+        </Grid>
+    </Grid>
+</ContentPage>
