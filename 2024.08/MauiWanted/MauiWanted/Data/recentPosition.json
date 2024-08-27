@@ -1,0 +1,584 @@
+[
+    {
+      "id": 179315,
+      "status": "active",
+      "due_time": null,
+      "position": "개발 리드 (Tech Lead)",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 2,
+      "address":  {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울시 강남구 역삼로228"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/37068/jncy3m8kecy7dctl__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/37068/jncy3m8kecy7dctl__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.2a8c4f30.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.2a8c4f30.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 872,
+              "text": "서버 개발자"
+            },
+            {
+              "id": 895,
+              "text": "Node.js 개발자"
+            },
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 37068,
+        "link": "https://igogo.kr",
+        "industry_name": "IT, 컨텐츠",
+        "name": "아이들랩",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 100.0,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 236504,
+      "status": "active",
+      "due_time": null,
+      "position": "네트워크개발",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": true,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "마포구 양화로 8길 32-16"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/30845/uznbvkldtsw3kfp4__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/30845/uznbvkldtsw3kfp4__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.10e8d08f.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.10e8d08f.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 661,
+              "text": ".NET 개발자"
+            },
+            {
+              "id": 665,
+              "text": "시스템,네트워크 관리자"
+            },
+            {
+              "id": 900,
+              "text": "C,C++ 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 30845,
+        "link": "www.pribit.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "프라이빗테크놀로지",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 44.16,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 228233,
+      "status": "active",
+      "due_time": "2024-09-01",
+      "position": "기술개발실장",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": true,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "중구 서소문로 89-31 알라딘 빌딩"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/27546/swm4xbpygzjujkzs__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/27546/swm4xbpygzjujkzs__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.ddd25fce.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.ddd25fce.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 669,
+              "text": "프론트엔드 개발자"
+            },
+            {
+              "id": 795,
+              "text": "CTO,Chief Technology Officer"
+            },
+            {
+              "id": 895,
+              "text": "Node.js 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 27546,
+        "link": "http://www.tooning.kr/",
+        "industry_name": "기타 서비스업",
+        "name": "툰잉",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 97.59,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 228347,
+      "status": "active",
+      "due_time": "2024-08-23",
+      "position": "개발자 CTO 혹은 기술 총괄 팀장 (근무지: 말레이시아)",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "인천시 부평구 길주로 623, 대덕리치아노 101-1502호"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/48734/nmrx6ne3hrzyhz9l__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/48734/nmrx6ne3hrzyhz9l__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.aa5fd246.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.aa5fd246.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 795,
+              "text": "CTO,Chief Technology Officer"
+            },
+            {
+              "id": 872,
+              "text": "서버 개발자"
+            },
+            {
+              "id": 10110,
+              "text": "소프트웨어 엔지니어"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 48734,
+        "link": "www.ypidus.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "와이피아이디어스컨설팅",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 77.25,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "normal"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 232275,
+      "status": "active",
+      "due_time": null,
+      "position": ".NET 개발자",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울시 중구 정동길 14"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/33870/nkauqknbzhfqrg5w__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/33870/nkauqknbzhfqrg5w__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.6e533ef6.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.6e533ef6.png"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 661,
+              "text": ".NET 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 33870,
+        "link": "www.srookpay.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "스룩",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 57.89,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 235582,
+      "status": "active",
+      "due_time": null,
+      "position": "응용프로그램 SW개발자",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "세종",
+        "full_location": "세종특별자치시 한누리대로 1966 (소담동, 로이어즈타워)"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/38509/fffqz9pre5mtecto__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/38509/fffqz9pre5mtecto__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.1ca1cd99.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.1ca1cd99.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 661,
+              "text": ".NET 개발자"
+            },
+            {
+              "id": 900,
+              "text": "C,C++ 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 38509,
+        "link": "https://www.withpoints.co.kr/",
+        "industry_name": "IT, 컨텐츠",
+        "name": "위드포인츠",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 0.0,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 232770,
+      "status": "active",
+      "due_time": null,
+      "position": "키오스크 개발 (C#, WPF) (서울 오피스)",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울 마포구 백범로31길 21 서울창업허브 본관. 4F"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/44702/3ropgyetvbvbajtd__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/44702/3ropgyetvbvbajtd__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.f43c0633.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.f43c0633.png"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 661,
+              "text": ".NET 개발자"
+            },
+            {
+              "id": 900,
+              "text": "C,C++ 개발자"
+            },
+            {
+              "id": 10110,
+              "text": "소프트웨어 엔지니어"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 44702,
+        "link": "https://moneyplex.net/",
+        "industry_name": "IT, 컨텐츠",
+        "name": "코인트래빗",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 85.71,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "normal"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 233914,
+      "status": "active",
+      "due_time": "2024-09-30",
+      "position": "GUI 개발자",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울특별시 서초구 서초대로 350, 402호"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/49946/elsasx0bzma4yja9__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/49946/elsasx0bzma4yja9__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_5.2435ad2b.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_4.2435ad2b.png"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 661,
+              "text": ".NET 개발자"
+            },
+            {
+              "id": 899,
+              "text": "파이썬 개발자"
+            },
+            {
+              "id": 900,
+              "text": "C,C++ 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 49946,
+        "link": "www.easymotion.co.kr",
+        "industry_name": "전문, 과학기술",
+        "name": "이지모션",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 100.0,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 216735,
+      "status": "active",
+      "due_time": null,
+      "position": "CTO",
+      "score": null,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울특별시 강남구 삼성로85길 26, V&S 14층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/18963/m1hmiuee8yentdgt__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/18963/m1hmiuee8yentdgt__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.1d92b13e.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.1d92b13e.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 795,
+              "text": "CTO,Chief Technology Officer"
+            },
+            {
+              "id": 895,
+              "text": "Node.js 개발자"
+            },
+            {
+              "id": 899,
+              "text": "파이썬 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 18963,
+        "link": "www.dencomm.ai",
+        "industry_name": "IT, 컨텐츠",
+        "name": "덴컴",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 76.15,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "normal"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    }
+  ]

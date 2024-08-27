@@ -1,0 +1,52 @@
+[
+  {
+    "title": "TKG애강에서 인재를 찾습니다",
+    "subtitle": "경력 및 신입 채용 진행 중",
+    "background_image": "banner01.webp",
+    "link": "/company/49911",
+    "content_id": "49911"
+  },
+  {
+    "title": "토스뱅크 테크 직군 대규모 채용",
+    "subtitle": "채용 중 포지션 확인하기",
+    "background_image": "banner02.webp",
+    "link": "/company/24000",
+    "content_id": "24000"
+  },
+  {
+    "title": "신한투자증권 디지털/ICT 공개채용",
+    "subtitle": "2024.08.07(수) - 2024.08.25(일)",
+    "background_image": "banner03.webp",
+    "link": "/events/shinhansec",
+    "content_id": null,
+    "is_darkText":  true
+  },
+  {
+    "title": "인공지능(AI) 포지션",
+    "subtitle": "눈여겨볼 인공지능(AI) 채용공고를 소개합니다.",
+    "background_image": "banner04.webp",
+    "link": "https://www.wanted.co.kr/tags/10486?view=position&start_year=0&end_year=10&job_group_id=518&job_ids=1634&job_ids=1025&job_ids=655&job_ids=1024",
+    "content_id": null
+  },
+  {
+    "title": "최근 원티드에 가입한 기업",
+    "subtitle": "새로 올라온 포지션들을 확인해 보세요",
+    "background_image": "banner05.webp",
+    "link": "https://www.wanted.co.kr/tags/10482?view=company",
+    "content_id": null
+  },
+  {
+    "title": "카카오모빌리티 주니어 부스터 영입",
+    "subtitle": "서비스 기획자 / 프로덕트 디자이너 / 마케터",
+    "background_image": "banner06.webp",
+    "link": "https://www.wanted.co.kr/events/kakaomobility",
+    "content_id": null
+  },
+  {
+    "title": "B사 매장방문율 140%증가",
+    "subtitle": "엘리베이터TV 무료 컨설팅 받기",
+    "background_image": "banner07.webp",
+    "link": "https://partners.focusmediakorea.com/inquiry",
+    "content_id": null
+  }
+]

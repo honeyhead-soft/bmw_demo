@@ -1,0 +1,1308 @@
+{
+  "companies": [
+    {
+      "id": 4701,
+      "name": "피닉스다트",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10440,
+          "text": "편의시설"
+        },
+        {
+          "id": 10438,
+          "text": "휴가비"
+        },
+        {
+          "id": 10430,
+          "text": "대출지원"
+        },
+        {
+          "id": 10403,
+          "text": "51~300명"
+        },
+        {
+          "id": 10409,
+          "text": "설립10년이상"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/4701/5lrxqq40hgiow9re__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/4701/5lrxqq40hgiow9re__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.c524d1a9.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.c524d1a9.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 62.75,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "low"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "e04e75962e2b4c0ecc044a193173004563c5c0ec"
+    },
+    {
+      "id": 34779,
+      "name": "인피니티익스체인지코리아",
+      "industry_tag": {
+        "id": 9928,
+        "text": "금융"
+      },
+      "company_tags": [
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/34779/2pczuprhjdp6cavl__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/34779/2pczuprhjdp6cavl__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_5.79916ea6.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_4.79916ea6.png"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 91.1,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": null
+    },
+    {
+      "id": 9072,
+      "name": "오케스트로",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10416,
+          "text": "자유로운휴가"
+        },
+        {
+          "id": 10423,
+          "text": "건강검진지원"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10446,
+          "text": "전문연구요원"
+        },
+        {
+          "id": 10404,
+          "text": "301~1,000명"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        },
+        {
+          "id": 10483,
+          "text": "아시아·태평양 고성장"
+        },
+        {
+          "id": 10485,
+          "text": "누적투자100억이상"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/9072/b3wso1ulcwvot3qn__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/9072/b3wso1ulcwvot3qn__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.90863349.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.90863349.png"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 84.58,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "normal"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "8df2dade768f3427bcde049b1001e94359ab3523"
+    },
+    {
+      "id": 21810,
+      "name": "웨이센(waycenInc.)",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10423,
+          "text": "건강검진지원"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10440,
+          "text": "편의시설"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10416,
+          "text": "자유로운휴가"
+        },
+        {
+          "id": 10399,
+          "text": "연봉상위11~20%"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        },
+        {
+          "id": 10401,
+          "text": "인원 급성장"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/21810/c5wlkbhky3j7tmqo__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/21810/c5wlkbhky3j7tmqo__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.b5a8a6e5.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.b5a8a6e5.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 83.58,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "normal"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "20a79c6c9b26c60b31a031ac85d8bc64269c198f"
+    },
+    {
+      "id": 52,
+      "name": "야놀자Tech(R&D)",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10416,
+          "text": "자유로운휴가"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/52/zlirqdbwg9skbxwv__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/52/zlirqdbwg9skbxwv__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_5.120ee678.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_4.120ee678.png"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 67.22,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "low"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "8eb70d47816a69783422ef7427438424c2ae0dd8"
+    },
+    {
+      "id": 20995,
+      "name": "에어스메디컬",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10413,
+          "text": "유연근무"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10399,
+          "text": "연봉상위11~20%"
+        },
+        {
+          "id": 10403,
+          "text": "51~300명"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        },
+        {
+          "id": 10485,
+          "text": "누적투자100억이상"
+        },
+        {
+          "id": 10427,
+          "text": "복지포인트"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/20995/aaxnsi3gvmg8bsok__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/20995/aaxnsi3gvmg8bsok__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.0db473b8.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.0db473b8.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 76.54,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "normal"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "5171aa1e995b7806f6e788a28d7873bde5e9c5df"
+    },
+    {
+      "id": 32252,
+      "name": "미니레코드",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10439,
+          "text": "장비지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10409,
+          "text": "설립10년이상"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        },
+        {
+          "id": 10401,
+          "text": "인원 급성장"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/32252/vajdkvgoevxrrrhm__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/32252/vajdkvgoevxrrrhm__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.37af3ff0.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.37af3ff0.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 98.08,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "12e8128c6f59df861d7c3bed34604f62c0177cf2"
+    },
+    {
+      "id": 30255,
+      "name": "엔쓰리엔(N3N)",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10416,
+          "text": "자유로운휴가"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10423,
+          "text": "건강검진지원"
+        },
+        {
+          "id": 10439,
+          "text": "장비지원"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10413,
+          "text": "유연근무"
+        },
+        {
+          "id": 10418,
+          "text": "육아휴직"
+        },
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10409,
+          "text": "설립10년이상"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/30255/t79ztb7geflv42r9__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/30255/t79ztb7geflv42r9__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.6a56d63c.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.6a56d63c.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 95.07,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "5fa4029c069d874b36fb7a53b1c3c19cb8655674"
+    },
+    {
+      "id": 21599,
+      "name": "크리스틴컴퍼니",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        },
+        {
+          "id": 10420,
+          "text": "유급휴가"
+        },
+        {
+          "id": 10439,
+          "text": "장비지원"
+        },
+        {
+          "id": 10417,
+          "text": "리프레시휴가"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/21599/wlellwd9owhvkqnu__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/21599/wlellwd9owhvkqnu__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.828f92de.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.828f92de.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 61.22,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "low"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "9eb74214e0bf52867d50976607cd05463ed3d822"
+    },
+    {
+      "id": 18615,
+      "name": "아르고스아이덴티티코리아",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10416,
+          "text": "자유로운휴가"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        },
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10399,
+          "text": "연봉상위11~20%"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/18615/s7sv1vytnlbgvanv__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/18615/s7sv1vytnlbgvanv__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_5.938b9234.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_4.938b9234.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 92.22,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": null
+    },
+    {
+      "id": 8088,
+      "name": "디앤에스에버(DNSEver)",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10403,
+          "text": "51~300명"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/8088/erkcqhx2fvcamqtw__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/8088/erkcqhx2fvcamqtw__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.1f268df9.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.1f268df9.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 0,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_low"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "b69ba9f4ee777429121c0806573172941e6f54aa"
+    },
+    {
+      "id": 4386,
+      "name": "팀오투(카모아)",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10440,
+          "text": "편의시설"
+        },
+        {
+          "id": 10416,
+          "text": "자유로운휴가"
+        },
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/4386/umt7eyrgsrjbni53__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/4386/umt7eyrgsrjbni53__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.a2e77c85.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.a2e77c85.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 67.57,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "low"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "9b6b30e16cd2f8308231d740b4f609a62b985d53"
+    },
+    {
+      "id": 20285,
+      "name": "브레인즈컴퍼니",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10440,
+          "text": "편의시설"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10441,
+          "text": "수평적조직"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10397,
+          "text": "연봉상위2~5%"
+        },
+        {
+          "id": 10403,
+          "text": "51~300명"
+        },
+        {
+          "id": 10409,
+          "text": "설립10년이상"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        },
+        {
+          "id": 10431,
+          "text": "스톡옵션"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/20285/5woc96me8t4nsxap__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/20285/5woc96me8t4nsxap__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.3d2dbd4e.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.3d2dbd4e.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 100,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "758e814d39a460939bbfcb9483dc89604067c265"
+    },
+    {
+      "id": 35239,
+      "name": "체인위드",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        },
+        {
+          "id": 10413,
+          "text": "유연근무"
+        },
+        {
+          "id": 10412,
+          "text": "재택근무"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/35239/1hgatowynlhhpblu__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/35239/1hgatowynlhhpblu__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.98e487dc.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.98e487dc.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 0,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_low"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "b3f68857c001813e898eb06028455c078ed1c2ef"
+    },
+    {
+      "id": 14977,
+      "name": "세이지",
+      "industry_tag": {
+        "id": 9930,
+        "text": "전문, 과학기술"
+      },
+      "company_tags": [
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10440,
+          "text": "편의시설"
+        },
+        {
+          "id": 10438,
+          "text": "휴가비"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10443,
+          "text": "사내동호회"
+        },
+        {
+          "id": 10423,
+          "text": "건강검진지원"
+        },
+        {
+          "id": 10417,
+          "text": "리프레시휴가"
+        },
+        {
+          "id": 10403,
+          "text": "51~300명"
+        },
+        {
+          "id": 10397,
+          "text": "연봉상위2~5%"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        },
+        {
+          "id": 10483,
+          "text": "아시아·태평양 고성장"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/14977/206gnwxkxiutbn2n__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/14977/206gnwxkxiutbn2n__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.435f735b.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.435f735b.png"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 94.72,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "bc2d07a08508d093273328c6e7766afa622094e7"
+    },
+    {
+      "id": 14178,
+      "name": "오픈엣지테크놀로지",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10425,
+          "text": "의료비지원"
+        },
+        {
+          "id": 10423,
+          "text": "건강검진지원"
+        },
+        {
+          "id": 10446,
+          "text": "전문연구요원"
+        },
+        {
+          "id": 10413,
+          "text": "유연근무"
+        },
+        {
+          "id": 10396,
+          "text": "연봉상위1%"
+        },
+        {
+          "id": 10403,
+          "text": "51~300명"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        },
+        {
+          "id": 10483,
+          "text": "아시아·태평양 고성장"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/14178/mg4clxrj7sy7gxdy__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/14178/mg4clxrj7sy7gxdy__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.8c653f45.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.8c653f45.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 100,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "2ae08758889ef6601d7d208964ffd2fb06508040"
+    },
+    {
+      "id": 18915,
+      "name": "제이와이피엔터테인먼트(JYP)",
+      "industry_tag": {
+        "id": 9935,
+        "text": "예술, 스포츠, 여가"
+      },
+      "company_tags": [
+        {
+          "id": 10427,
+          "text": "복지포인트"
+        },
+        {
+          "id": 10413,
+          "text": "유연근무"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10443,
+          "text": "사내동호회"
+        },
+        {
+          "id": 10396,
+          "text": "연봉상위1%"
+        },
+        {
+          "id": 10404,
+          "text": "301~1,000명"
+        },
+        {
+          "id": 10409,
+          "text": "설립10년이상"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/18915/mklbi1zxaicfzy4z__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/18915/mklbi1zxaicfzy4z__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.0384c01e.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.0384c01e.png"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 56.37,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "low"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "a0bd013a637d83f79a7ea9f02cc2d237bf80d5ed"
+    },
+    {
+      "id": 26218,
+      "name": "미르니",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10439,
+          "text": "장비지원"
+        },
+        {
+          "id": 10419,
+          "text": "출산휴가"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10445,
+          "text": "산업기능요원"
+        },
+        {
+          "id": 10418,
+          "text": "육아휴직"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/26218/qy28ttazu19emhxc__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/26218/qy28ttazu19emhxc__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.7c0bc7e4.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.7c0bc7e4.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 100,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "c9b4f3d825ed96796972bbfa9c8a3dcc46fa3295"
+    },
+    {
+      "id": 31860,
+      "name": "에이아이리더",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10413,
+          "text": "유연근무"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10416,
+          "text": "자유로운휴가"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10426,
+          "text": "보너스"
+        },
+        {
+          "id": 10399,
+          "text": "연봉상위11~20%"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10423,
+          "text": "건강검진지원"
+        },
+        {
+          "id": 10486,
+          "text": "AI 선도 기업"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/31860/pjawstxdtmrqzhqr__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/31860/pjawstxdtmrqzhqr__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.7cc60362.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.7cc60362.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 85.42,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "normal"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": null
+    },
+    {
+      "id": 26340,
+      "name": "어반데이터랩",
+      "industry_tag": {
+        "id": 9927,
+        "text": "IT, 컨텐츠"
+      },
+      "company_tags": [
+        {
+          "id": 10439,
+          "text": "장비지원"
+        },
+        {
+          "id": 10437,
+          "text": "식대지원"
+        },
+        {
+          "id": 10447,
+          "text": "유망산업"
+        },
+        {
+          "id": 10433,
+          "text": "자기계발지원"
+        },
+        {
+          "id": 10436,
+          "text": "커피·스낵바"
+        },
+        {
+          "id": 10420,
+          "text": "유급휴가"
+        },
+        {
+          "id": 10440,
+          "text": "편의시설"
+        },
+        {
+          "id": 10402,
+          "text": "50명이하"
+        },
+        {
+          "id": 10408,
+          "text": "설립4~9년"
+        }
+      ],
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/26340/mifvoqnc3s9qj0t4__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/26340/mifvoqnc3s9qj0t4__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.7868a300.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.7868a300.jpg"
+      },
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 97.3,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_high"
+      },
+      "is_follow": false,
+      "is_joined": true,
+      "kreditjob_id": "a8874f72161c5e40e8db8a1dceadf105a294a492"
+    }
+  ]
+}

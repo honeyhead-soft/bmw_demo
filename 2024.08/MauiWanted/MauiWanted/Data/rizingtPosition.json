@@ -1,0 +1,122 @@
+[
+  {
+    "id": 128796,
+    "status": "active",
+    "due_time": null,
+    "position": "프로젝트 매니저 (솔루션 구축)",
+    "is_bookmark": false,
+    "title_img": {
+      "origin": "https://static.wanted.co.kr/images/company/25058/qsylvr2as8fchjwj__1080_790.jpg",
+      "thumb": "https://static.wanted.co.kr/images/company/25058/qsylvr2as8fchjwj__400_400.jpg"
+    },
+    "category_tags": [ { "parent_tag": { "id": 518 } } ],
+    "company": {
+      "id": 25058,
+      "link": null,
+      "name": "다임리서치",
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 96.0,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_high"
+      }
+    },
+    "reward": {
+      "formatted_total": "100만원",
+      "formatted_recommender": "50만원",
+      "formatted_recommendee": "50만원"
+    }
+  },
+  {
+    "id": 229962,
+    "status": "active",
+    "due_time": null,
+    "position": "IT Service Designer and Business Analyst",
+    "is_bookmark": false,
+    "title_img": {
+      "origin": "https://static.wanted.co.kr/images/company/10130/doenoxyifspclnmm__1080_790.jpg",
+      "thumb": "https://static.wanted.co.kr/images/company/10130/doenoxyifspclnmm__400_400.jpg"
+    },
+    "category_tags": [ { "parent_tag": { "id": 518 } } ],
+    "company": {
+      "id": 10130,
+      "link": null,
+      "name": "에이아이에이생명(AIA생명)",
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 76.0,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "normal"
+      }
+    },
+    "reward": {
+      "formatted_total": "100만원",
+      "formatted_recommender": "50만원",
+      "formatted_recommendee": "50만원"
+    }
+  },
+  {
+    "id": 222389,
+    "status": "active",
+    "due_time": null,
+    "position": "React.js (개발자~PM/PL 리더급)",
+    "is_bookmark": false,
+    "title_img": {
+      "origin": "https://static.wanted.co.kr/images/company/39650/ulf1tyb7tw9zpvpz__1080_790.jpg",
+      "thumb": "https://static.wanted.co.kr/images/company/39650/ulf1tyb7tw9zpvpz__400_400.jpg"
+    },
+    "category_tags": [ { "parent_tag": { "id": 518 } } ],
+    "company": {
+      "id": 39650,
+      "link": null,
+      "name": "라이즌스퀘어",
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 8.0,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "very_low"
+      }
+    },
+    "reward": {
+      "formatted_total": "100만원",
+      "formatted_recommender": "50만원",
+      "formatted_recommendee": "50만원"
+    }
+  },
+  {
+    "id": 232770,
+    "status": "active",
+    "due_time": null,
+    "position": "키오스크 개발 (C#, WPF) (서울 오피스)",
+    "is_bookmark": false,
+    "title_img": {
+      "origin": "https://static.wanted.co.kr/images/company/44702/3ropgyetvbvbajtd__1080_790.jpg",
+      "thumb": "https://static.wanted.co.kr/images/company/44702/3ropgyetvbvbajtd__400_400.jpg"
+    },
+    "category_tags": [ { "parent_tag": { "id": 518 } } ],
+    "company": {
+      "id": 44702,
+      "link": null,
+      "name": "코인트래빗",
+      "application_response_stats": {
+        "avg_day": null,
+        "avg_rate": 68.0,
+        "delayed_count": 0,
+        "remained_count": 0,
+        "type": "applied_reply_done",
+        "level": "low"
+      }
+    },
+    "reward": {
+      "formatted_total": "100만원",
+      "formatted_recommender": "50만원",
+      "formatted_recommendee": "50만원"
+    }
+  }
+]

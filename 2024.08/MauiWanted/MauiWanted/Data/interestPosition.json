@@ -1,0 +1,1282 @@
+[
+    {
+      "id": 216101,
+      "status": "active",
+      "due_time": null,
+      "position": "팀장급 시니어 개발자",
+      "score": 0.898056,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "경기",
+        "full_location": "경기도 남양주시 진접읍 경복대로 202 비에스빌딩 3층 (4호선 진접역 3번 출구 5분 거리)"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/34447/mhzjj0oqk1fekaoa__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/34447/mhzjj0oqk1fekaoa__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.a5ebc349.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.a5ebc349.png"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 34447,
+        "link": "https://recl.co.kr,https://reclstore.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "리클(Recl)",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 96.1,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 179315,
+      "status": "active",
+      "due_time": null,
+      "position": "개발 리드 (Tech Lead)",
+      "score": 0.888062,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 2,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울시 강남구 역삼로228"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/37068/jncy3m8kecy7dctl__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/37068/jncy3m8kecy7dctl__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.2a8c4f30.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.2a8c4f30.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 872,
+              "text": "서버 개발자"
+            },
+            {
+              "id": 895,
+              "text": "Node.js 개발자"
+            },
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 37068,
+        "link": "https://igogo.kr",
+        "industry_name": "IT, 컨텐츠",
+        "name": "아이들랩",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 100.0,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 218634,
+      "status": "active",
+      "due_time": null,
+      "position": "대구연구소 개발팀장",
+      "score": 0.88263,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "대구",
+        "full_location": "동구 동대구로 475 벤처센터빌딩 14층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/31011/cercqalsiwjbcxbk__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/31011/cercqalsiwjbcxbk__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.f32c2ae3.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.f32c2ae3.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 876,
+              "text": "프로덕트 매니저"
+            },
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            },
+            {
+              "id": 10110,
+              "text": "소프트웨어 엔지니어"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 31011,
+        "link": "http://www.ciel.co.kr/",
+        "industry_name": "IT, 컨텐츠",
+        "name": "씨엘모빌리티",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 71.43,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 231033,
+      "status": "active",
+      "due_time": null,
+      "position": "SW팀 리드",
+      "score": 0.882441,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울시 강남구 압구정로42길 22, 4층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/7650/scngemwrx49v9kcp__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/7650/scngemwrx49v9kcp__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.78ec7a9d.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.78ec7a9d.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 669,
+              "text": "프론트엔드 개발자"
+            },
+            {
+              "id": 873,
+              "text": "웹 개발자"
+            },
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 7650,
+        "link": "https://codmos.io",
+        "industry_name": "IT, 컨텐츠",
+        "name": "로지브라더스",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 69.33,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 171848,
+      "status": "active",
+      "due_time": null,
+      "position": "개발팀 리더",
+      "score": 0.868216,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 2,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울 마포구 잔다리로 31, 2층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/15911/mdvnimnvfv0sb35a__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/15911/mdvnimnvfv0sb35a__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.0a058428.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.0a058428.png"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 795,
+              "text": "CTO,Chief Technology Officer"
+            },
+            {
+              "id": 872,
+              "text": "서버 개발자"
+            },
+            {
+              "id": 899,
+              "text": "파이썬 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 15911,
+        "link": "www.plabfootball.com",
+        "industry_name": "예술, 스포츠, 여가",
+        "name": "마이플레이컴퍼니",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 92.31,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 218284,
+      "status": "active",
+      "due_time": null,
+      "position": "Product Manager",
+      "score": 0.864809,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "경기",
+        "full_location": "경기도 과천시 과천대로7나길 60, 어반허브 C동 5,6층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/13425/d0ppi6ltfnnkaxjy__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/13425/d0ppi6ltfnnkaxjy__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.92a750d6.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.92a750d6.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 876,
+              "text": "프로덕트 매니저"
+            },
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 13425,
+        "link": "www.laonpeople.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "라온피플",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 68.38,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 217135,
+      "status": "active",
+      "due_time": null,
+      "position": "개발 매니저 (PM)",
+      "score": 0.859968,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울시 서초구 강남대로 311 한화생명빌딩 13층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/455/mnes3mjmx4m7jmhk__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/455/mnes3mjmx4m7jmhk__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.b9eea0fb.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.b9eea0fb.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 876,
+              "text": "프로덕트 매니저"
+            },
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            },
+            {
+              "id": 1026,
+              "text": "기술지원"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 455,
+        "link": "https://www.luxrobo.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "럭스로보(LUXROBO)",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 84.12,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "normal"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 149415,
+      "status": "active",
+      "due_time": "2024-08-31",
+      "position": "플러터 Flutter 개발자",
+      "score": 0.85617,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 1,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "강남구 테헤란로 503 하이브로빌딩 10층 (패스트파이브 10층 로비)"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/4851/swrnatbsyqjrfsl4__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/4851/swrnatbsyqjrfsl4__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.e4155994.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.e4155994.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 4851,
+        "link": "www.tourlive.co.kr",
+        "industry_name": "IT, 컨텐츠",
+        "name": "투어라이브",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 100.0,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 215469,
+      "status": "active",
+      "due_time": null,
+      "position": "[개발/운영] DBA (오라클)",
+      "score": 0.837755,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울 영등포구 국제금융로8길 2 농협문화복지재단 14층 (여의도동)"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/589/8p2txt1wxztsgbyo__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/589/8p2txt1wxztsgbyo__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.02eaec36.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.02eaec36.png"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            },
+            {
+              "id": 10110,
+              "text": "소프트웨어 엔지니어"
+            },
+            {
+              "id": 10231,
+              "text": "DBA"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 589,
+        "link": "www.kudosworks.co.kr",
+        "industry_name": "IT, 컨텐츠",
+        "name": "아이알큐더스",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 93.66,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 235201,
+      "status": "active",
+      "due_time": "2024-08-27",
+      "position": "PLC(Mitsubishi, SIEMENS) 프로그램 셋업 및 CS",
+      "score": 0.83513,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "경기",
+        "full_location": "경기도 수원시 권선구 산업로155번길 111 (주)쎄크"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/32286/kuk5aulju43amopn__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/32286/kuk5aulju43amopn__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.550ab435.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.550ab435.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 672,
+              "text": "하드웨어 엔지니어"
+            },
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            },
+            {
+              "id": 1026,
+              "text": "기술지원"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 32286,
+        "link": "www.seceng.co.kr",
+        "industry_name": "제조",
+        "name": "쎄크",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 0.0,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 232897,
+      "status": "active",
+      "due_time": "2024-08-21",
+      "position": "IOS 개발자",
+      "score": 0.828304,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "역삼동696-21번지 5층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/23225/68ilw4jdnylos689__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/23225/68ilw4jdnylos689__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.dc1b92e3.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.dc1b92e3.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 678,
+              "text": "iOS 개발자"
+            },
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            },
+            {
+              "id": 10110,
+              "text": "소프트웨어 엔지니어"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 23225,
+        "link": "",
+        "industry_name": "IT, 컨텐츠",
+        "name": "이노즈",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 0.0,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 235088,
+      "status": "active",
+      "due_time": null,
+      "position": "앱(React Native) 개발자 (전문연 가능)",
+      "score": 0.825577,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "강남구 테헤란로2길 27, 14층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/9416/xqbxzrrifvgjlfa7__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/9416/xqbxzrrifvgjlfa7__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.c8490a8f.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.c8490a8f.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 669,
+              "text": "프론트엔드 개발자"
+            },
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 9416,
+        "link": "www.classum.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "클라썸",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 85.03,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "normal"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 226717,
+      "status": "active",
+      "due_time": null,
+      "position": "[네모] 백엔드 개발자 (1년 이상)",
+      "score": 0.818088,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울 강남구 테헤란로7길 12 허바허바빌딩 4층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/1844/lj6xgpu0f7j7ptsu__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/1844/lj6xgpu0f7j7ptsu__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.e8d16e94.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.e8d16e94.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 661,
+              "text": ".NET 개발자"
+            },
+            {
+              "id": 872,
+              "text": "서버 개발자"
+            },
+            {
+              "id": 900,
+              "text": "C,C++ 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 1844,
+        "link": "http://www.sugarhill.co.kr/",
+        "industry_name": "IT, 컨텐츠",
+        "name": "슈가힐(네모)",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 98.7,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 237010,
+      "status": "active",
+      "due_time": "2024-09-16",
+      "position": "그로우맵스 개발자",
+      "score": 0.807477,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "부산",
+        "full_location": "부산시 동구 중앙대로288, 홍인빌딩 7층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/30755/1d7njzq1espba795__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/30755/1d7njzq1espba795__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.bea8fe1d.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.bea8fe1d.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 669,
+              "text": "프론트엔드 개발자"
+            },
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 30755,
+        "link": "growmaps.io",
+        "industry_name": "IT, 컨텐츠",
+        "name": "프리그로우",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 33.33,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 236320,
+      "status": "active",
+      "due_time": "2024-09-30",
+      "position": "리액트 네이티브 엔지니어",
+      "score": 0.786204,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울특별시 강남구 테헤란로 325 어반벤치빌딩 11층"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/5/pcufn5hokw5zrpwf__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/5/pcufn5hokw5zrpwf__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.946e96ac.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.946e96ac.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 669,
+              "text": "프론트엔드 개발자"
+            },
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            },
+            {
+              "id": 10110,
+              "text": "소프트웨어 엔지니어"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 5,
+        "link": "https://www.ridicorp.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "리디(RIDI)",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 68.45,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 223553,
+      "status": "active",
+      "due_time": "2024-08-26",
+      "position": "프론트 개발 책임 개발자 (근무지: 말레이시아)",
+      "score": 0.783608,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "인천시 부평구 길주로 623, 대덕리치아노 101-1502호"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/48734/nmrx6ne3hrzyhz9l__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/48734/nmrx6ne3hrzyhz9l__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.aa5fd246.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.aa5fd246.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 669,
+              "text": "프론트엔드 개발자"
+            },
+            {
+              "id": 877,
+              "text": "개발 매니저"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 48734,
+        "link": "www.ypidus.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "와이피아이디어스컨설팅",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 73.94,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 228933,
+      "status": "active",
+      "due_time": null,
+      "position": "Backend 서버 개발자",
+      "score": 0.781326,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "강남구 삼성로 560"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/2395/9109_2_0.__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/2395/9109_2_0.__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.17d97f52.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.17d97f52.png"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 660,
+              "text": "자바 개발자"
+            },
+            {
+              "id": 895,
+              "text": "Node.js 개발자"
+            },
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 2395,
+        "link": "shapl.com",
+        "industry_name": "IT, 컨텐츠",
+        "name": "샤플",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 95.51,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 232858,
+      "status": "active",
+      "due_time": null,
+      "position": "앱 개발자(4년 이상)",
+      "score": 0.779141,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "마포구 백범로31길 21, 서울창업허브 531호"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/11642/fjmz7k1hbsggnoe2__1080_790.png",
+        "thumb": "https://static.wanted.co.kr/images/company/11642/fjmz7k1hbsggnoe2__400_400.png"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.b5652cfd.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.b5652cfd.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 677,
+              "text": "안드로이드 개발자"
+            },
+            {
+              "id": 678,
+              "text": "iOS 개발자"
+            },
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 11642,
+        "link": "1hour.ai/",
+        "industry_name": "IT, 컨텐츠",
+        "name": "제로엑스플로우",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 82.87,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "normal"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 234426,
+      "status": "active",
+      "due_time": null,
+      "position": "Flutter Engineer",
+      "score": 0.778336,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 0,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울특별시 강남구 도산대로1길 73"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/47592/xkeu0lbn8hecss6a__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/47592/xkeu0lbn8hecss6a__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_5.da269197.png",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_4.da269197.png"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 10111,
+              "text": "크로스플랫폼 앱 개발자"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 47592,
+        "link": "",
+        "industry_name": "전문, 과학기술",
+        "name": "아코테컨설팅",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 100.0,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "very_high"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    },
+    {
+      "id": 134575,
+      "status": "active",
+      "due_time": null,
+      "position": "데스크탑 앱 개발자",
+      "score": 0.777054,
+      "action_type": null,
+      "is_like": false,
+      "is_bookmark": false,
+      "like_count": 15,
+      "address": {
+        "country": "한국",
+        "location": "서울",
+        "full_location": "서울시 성동구 왕십리로 58, 서울숲포휴 511호-514호"
+      },
+      "title_img": {
+        "origin": "https://static.wanted.co.kr/images/company/32712/v0jdib0tkh4fqycs__1080_790.jpg",
+        "thumb": "https://static.wanted.co.kr/images/company/32712/v0jdib0tkh4fqycs__400_400.jpg"
+      },
+      "logo_img": {
+        "origin": "https://static.wanted.co.kr/images/wdes/0_4.81229503.jpg",
+        "thumb": "https://static.wanted.co.kr/images/wdes/0_5.81229503.jpg"
+      },
+      "category_tags": [
+        {
+          "parent_tag": {
+            "id": 518,
+            "text": "개발"
+          },
+          "child_tags": [
+            {
+              "id": 661,
+              "text": ".NET 개발자"
+            },
+            {
+              "id": 900,
+              "text": "C,C++ 개발자"
+            },
+            {
+              "id": 10110,
+              "text": "소프트웨어 엔지니어"
+            }
+          ]
+        }
+      ],
+      "company": {
+        "id": 32712,
+        "link": "https://cle.vision",
+        "industry_name": "전문, 과학기술",
+        "name": "클레",
+        "application_response_stats": {
+          "avg_day": null,
+          "avg_rate": 57.14,
+          "delayed_count": 0,
+          "remained_count": 0,
+          "type": "applied_reply_done",
+          "level": "low"
+        }
+      },
+      "reward": {
+        "formatted_total": "100만원",
+        "formatted_recommender": "50만원",
+        "formatted_recommendee": "50만원"
+      },
+      "has_analysis": false
+    }
+  ]
